@@ -1,6 +1,6 @@
-# flutter_json
+# flutter_state
 
-A new Flutter project.
+A project to get an API request using repository, and showing it on a list, using value notifier with a controller to manage states.
 
 ## Getting Started
 
